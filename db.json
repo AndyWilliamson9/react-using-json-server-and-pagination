@@ -1,0 +1,91 @@
+{
+    "posts": [{
+        "id": 1,
+        "name": "Satheesh",
+        "email": "Sat@mail.com",
+        "adderss": "South street"
+    }, {
+        "id": 2,
+        "name": "John",
+        "email": "john@mail.com",
+        "adderss": "North street"
+    }, {
+        "id": 3,
+        "name": "Robert",
+        "email": "robert@mail.com",
+        "adderss": "East street"
+    }, {
+        "id": 4,
+        "name": "Mani",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 5,
+        "name": "Harry",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 6,
+        "name": "Dan",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 7,
+        "name": "Jack",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 8,
+        "name": "Joe",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 9,
+        "name": "Dave",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 10,
+        "name": "sean",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 11,
+        "name": "Derrick",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 12,
+        "name": "Damian",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 13,
+        "name": "Fred",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 14,
+        "name": "George",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 15,
+        "name": "Frank",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }, {
+        "id": 16,
+        "name": "Ross",
+        "email": "mani@mail.com",
+        "adderss": "West street"
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}
